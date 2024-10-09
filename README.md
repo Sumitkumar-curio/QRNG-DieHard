@@ -22,8 +22,8 @@ Here's the data in a tabular format that you can use for your README or document
 |--------------------------------|------|----------|----------|--------------|------------|
 | diehard_birthdays              | 0    | 100      | 100      | 0.91088416   | PASSED     |
 | diehard_operm5                 | 0    | 1000000  | 100      | 0.34971292   | PASSED     |
-| diehard_rank_32x32            | 0    | 40000    | 100      | 0.67227970   | PASSED     |
-| diehard_rank_6x8              | 0    | 100000   | 100      | 0.76219697   | PASSED     |
+| diehard_rank_32x32             | 0    | 40000    | 100       | 0.67227970    | PASSED     |
+| diehard_rank_6x8               | 0    | 100000   | 100       | 0.76219697    | PASSED     |
 | diehard_bitstream              | 0    | 2097152  | 100      | 0.27336921   | PASSED     |
 | diehard_opso                   | 0    | 2097152  | 100      | 0.48417279   | PASSED     |
 | diehard_oqso                   | 0    | 2097152  | 100      | 0.72537769   | PASSED     |
@@ -39,8 +39,8 @@ Here's the data in a tabular format that you can use for your README or document
 | diehard_runs                  | 0    | 100000   | 100      | 0.01880172   | PASSED     |
 | diehard_craps                 | 0    | 200000   | 100      | 0.35548734   | PASSED     |
 | diehard_craps                 | 0    | 200000   | 100      | 0.23137819   | PASSED     |
-| marsaglia_tsang_gcd          | 0    | 10000000 | 100      | 0.98732141   | PASSED     |
-| marsaglia_tsang_gcd          | 0    | 10000000 | 100      | 0.98971297   | PASSED     |
+| marsaglia_tsang_gcd           | 0    | 10000000 | 100      | 0.98732141   | PASSED     |
+| marsaglia_tsang_gcd           | 0    | 10000000 | 100      | 0.98971297   | PASSED     |
 | sts_monobit                   | 1    | 100000   | 100      | 0.02686061   | PASSED     |
 | sts_runs                      | 2    | 100000   | 100      | 0.33630387   | PASSED     |
 | sts_serial                    | 1    | 100000   | 100      | 0.85246403   | PASSED     |
@@ -83,9 +83,7 @@ Here's the data in a tabular format that you can use for your README or document
 | rgb_bitdist                   | 8    | 100000   | 100      | 0.89168527   | PASSED     |
 | rgb_bitdist                   | 9    | 100000   | 100      | 0.96904599   | PASSED     |
 | rgb_bitdist                   | 10   | 100000   | 100      | 0.11358462   | PASSED     |
-| rgb_bitdist                   | 11   | 100000   | 100      | 0.20348258  
-
- | PASSED     |
+| rgb_bitdist                   | 11   | 100000   | 100      | 0.20348258   | PASSED     |
 | rgb_bitdist                   | 12   | 100000   | 100      | 0.57409853   | PASSED     |
 | rgb_minimum_distance          | 2    | 10000    | 1000     | 0.36250261   | PASSED     |
 | rgb_minimum_distance          | 3    | 10000    | 1000     | 0.53233276   | PASSED     |
@@ -135,6 +133,6 @@ Here's the data in a tabular format that you can use for your README or document
 | dab_filltree                  | 32   | 15000000 | 1        | 0.71077585   | PASSED     |
 | dab_filltree2                 | 0    | 5000000  | 1        | 0.39573147   | PASSED     |
 | dab_filltree2                 | 1    | 5000000  | 1        | 0.22975306   | PASSED     |
-| dab_monobit2                 | 12   | 65000000 | 1        | 0.53374292   | PASSED     |
+| dab_monobit2                 | 12   | 65000000 | 1         | 0.53374292   | PASSED     |
 
 
