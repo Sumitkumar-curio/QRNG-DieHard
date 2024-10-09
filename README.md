@@ -1,4 +1,5 @@
 # QRNG-DieHard
+For Binary Data file Outut 2. Quantum Random number generator.
 
 sudo apt-get install dieharder
 sudo apt-get install libdieharder-dev
@@ -136,12 +137,4 @@ Here's the data in a tabular format that you can use for your README or document
 | dab_filltree2                 | 1    | 5000000  | 1        | 0.22975306   | PASSED     |
 | dab_monobit2                 | 12   | 65000000 | 1        | 0.53374292   | PASSED     |
 
-You can use this table in your README or other documentation as needed!
-Preparing to run test 207.  ntuple = 0
-        dab_filltree|  32|  15000000|       1|0.24305124|  PASSED  
-        dab_filltree|  32|  15000000|       1|0.71077585|  PASSED  
-Preparing to run test 208.  ntuple = 0
-       dab_filltree2|   0|   5000000|       1|0.39573147|  PASSED  
-       dab_filltree2|   1|   5000000|       1|0.22975306|  PASSED  
-Preparing to run test 209.  ntuple = 0
-        dab_monobit2|  12|  65000000|       1|0.53374292|  PASSED 
+
